@@ -1,13 +1,13 @@
-# Plantilla de proyectos
+# Proyect template with sass
 
-## Requerimientos
+## requirements
 
-* Node.js 12.x o superior
+* Node.js 12.x or higher
 
-## Uso
+## Usage
 
 ```
-npm install
+npm install or npm i
 npm run dev
 
 ```
